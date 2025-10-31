@@ -1,7 +1,7 @@
-# Tehcnical Assessment -- Dynamics
+# Technical Assessment -- Dynamics
 Technical Architecture & Engineering Exercise — Dynamics 365 / Power Platform (.NET Core)
 
-## 🎯 Purpose
+## Purpose
 
 This is to assesses your ability to design, configure, and extend Microsoft Dynamics 365 / Power Platform. Using AI and other tooling is 
 
@@ -62,7 +62,7 @@ We would also like to hear your thoughts on how you would approach the same rout
 - How non-developers could maintain or extend your flow
 - When Power Automate becomes the wrong tool for a given requirement
 
-## 🧠 Discussion Topics During Walkthrough
+## Discussion Topics During Walkthrough
 
 During your interview, you’ll walk us through:
 - Your Dataverse schema and reasoning
@@ -70,7 +70,7 @@ During your interview, you’ll walk us through:
 - Your thoughts on the LCNC (Power Automate) option and when you might choose it
 - How you would extend this design for a larger enterprise implementation
 
-## 🧰 Environment Setup
+## Environment Setup
 
 A separate **Environment Setup Guide** provides instructions for:
 - Creating a free Power Platform Developer environment
